@@ -24,11 +24,11 @@ to ```L6```, the system powers up properly. Thus, the handheld by itself was wor
 
 ## Things I've done
 
-I thought that the MOSFET might be faulty so I searched online for a replacement. By searching for the part number ```MTD 3055``` i found many results dealing with the Atari Lynx Power Problem. 
- One of the first results where a complete replacement kit at [Console 5](https://console5.com/store/catalogsearch/result/?q=atari+lynx) for a reasable price. So i ordered and replaced 
+I thought that the MOSFET (```Q11```) might be faulty so I searched online for a replacement. By searching for the part number ```MTD 3055``` i found many results dealing with the Atari Lynx Power Problem. 
+ One of the first results where a complete replacement kit at [Console 5](https://console5.com/store/catalogsearch/result/?q=atari+lynx) for a reasable price. So i ordered some sets and replaced 
  the transistors ```Q4``` and ```Q13```, the Zener Diode ```ZD1``` and the MOSFET ```Q11``` (for Lynx II : ```Q7```,```Q8```, ```D13```, ```Q12```)
 
-But, that does not do the trick. The Lynx still won't turn on. I measured all resistors and checked all traces of the power circuit for continuity. 
+But, that did not do the trick. The Lynx still won't turn on. I measured all resistors and checked all traces of the power circuit for continuity. 
 I also measured connection points when powering up in order to determine which component might be faulty. 
 Additionally, I changed all electrolytic capacitors (even there was no sign of leakage). 
 
